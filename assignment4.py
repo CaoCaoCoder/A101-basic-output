@@ -1,6 +1,9 @@
 #!python3
 
-Modify this program using comment structures so that
-only the print statement is executed.
+#This is my comment
+
+print("Hello!")
+
+#This is my code
 
 print("Hello!")
